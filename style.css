@@ -1,0 +1,21 @@
+
+
+/* rgb values */
+/* body{
+  text-align: center;
+  color: rgb(165, 42, 42);
+  background-color: rgb(95, 158, 160);
+} */
+/* hex code */
+/* body{
+  text-align: center;
+  color: #a52a2a;
+  background-color: #5f9ea0;
+  color: #1877f2;
+} */
+body{
+  color: hsl(204, 88%, 53%);
+}
+p {color: blue;}
+h2 {color: aqua;}
+
